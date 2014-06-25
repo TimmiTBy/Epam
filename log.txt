@@ -1,0 +1,9 @@
+25 θών 2014 04:48:06.708 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Fridge] - Fridge has been created
+25 θών 2014 04:48:06.710 [INFO] [main] [com.epam.electricalappliance.device.kitchen.Oven] - Oven has been created
+25 θών 2014 04:48:06.710 [INFO] [main] [com.epam.electricalappliance.device.bathroom.HairDryer] - HairDryer has been created
+25 θών 2014 04:48:06.711 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Fridge with 300 power, status true Has been added to SmartHouse
+25 θών 2014 04:48:06.712 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - Oven with 200 power, status true Has been added to SmartHouse
+25 θών 2014 04:48:06.712 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status true Has been added to SmartHouse
+25 θών 2014 04:48:06.712 [INFO] [main] [com.epam.electricalappliance.house.SmartHouse] - HairDryer with 100 power, status true has been found
+25 θών 2014 04:48:06.715 [INFO] [main] [com.epam.electricalappliance.utilsfordevices.Sort] - Devices were sorted
+25 θών 2014 04:48:06.717 [INFO] [main] [com.epam.electricalappliance.utilsfordevices.TotalCounter] - Total cost: 1650
